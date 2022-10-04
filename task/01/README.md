@@ -29,3 +29,5 @@ Register to GitHub, fork this repo, and comment on [#1](https://github.com/dudun
 
 3. [Report](https://github.com/dudung/nt6094-01-2022-1/issues/1) it.<br>
   ![](fork-20221004-1110.png)
+
+Above steps are illustratd for user [`veedasch`](https://github.com/veedashc). If your username is `someone` then all `veedasch` will be replaced with `someone`.
