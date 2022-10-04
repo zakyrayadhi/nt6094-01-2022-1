@@ -1,18 +1,17 @@
 # 01
 Register to GitHub, fork this repo, and comment on [#1](https://github.com/dudung/nt6094-01-2022-1/issues/1)
 
-
-<center>user</center> | nim | fork | comment
-:- | :-: | :-: | :-:
- | 20921007 | :x: | :x:
- | 28721001 | :x: | :x:
- | 28721003 | :x: | :x:
- | 28721006 | :x: | :x:
- | 30621001 | :x: | :x:
- | 30621004 | :x: | :x:
- | 30621008 | :x: | :x:
- | 28721005 | :x: | :x:
- | 38721002 | :x: | :x:
+user | nim | fork | comment
+:-: | :-: | :-: | :-:
+&nbsp; | 20921007 | :x: | :x:
+&nbsp; | 28721001 | :x: | :x:
+&nbsp; | 28721003 | :x: | :x:
+&nbsp; | 28721006 | :x: | :x:
+&nbsp; | 30621001 | :x: | :x:
+&nbsp; | 30621004 | :x: | :x:
+&nbsp; | 30621008 | :x: | :x:
+&nbsp; | 28721005 | :x: | :x:
+&nbsp; | 38721002 | :x: | :x:
 
 
 ## information
