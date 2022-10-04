@@ -11,7 +11,10 @@ week 7
 
 
 ## materi
-+ ..
++ Mikrajuddin Abdullah, "Research Opportunities for Less-facillitated Researchers", Discussion Series, 4 Oct 2022, 0900 GMT+07, LPPM ITB.
+  + Zoom [97516519961](https://itb-ac-id.zoom.us/j/97516519961?pwd=UlhKUXF3dzdMMHEvRXRCYlhwNU9UZz09#success).
+  + Instagram [CjRYx2oP5dR](https://www.instagram.com/p/CjRYx2oP5dR/).
+  + YouTube [z9V2GSUuV98](https://www.youtube.com/watch?v=z9V2GSUuV98).
 
 
 ## vicon
