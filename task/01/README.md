@@ -18,3 +18,6 @@ user |  | :heavy_check_mark: | :x:
 
 2. This repository is [forked](https://github.com/veedasch/nt6094-01-2022-1).<br>
   ![](fork-20221004-1022b.png)
+
+3. [Report](https://github.com/dudung/nt6094-01-2022-1/issues/1) it.<br>
+  ![](fork-20221004-1110.png)
