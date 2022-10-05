@@ -11,7 +11,7 @@ week 3
 
 
 ## materi
-+ ..
++ [Info layanan berbagai jurnal di kampus](publication-info-20220908-v3.pdf)
 
 
 ## vicon
