@@ -11,7 +11,7 @@ week 4
 
 
 ## materi
-+ ..
++ [Pengindeksan jurnal, sitasi, kuartil](journal-indexing-20220915-vC.pdf)
 
 
 ## vicon
