@@ -5,7 +5,7 @@ week 6
 :- | :-
 **Minggu** | 26/09 - 30/09
 **Topik** | Teknik Penulisan
-**Sub-topik** | Pendahuluan
+**Sub-topik** | Metodologi
 **Capaian** | Mahasiswa memahami tata cara penulisan dan mampu menuliskan jurnal ilmiah
 ||
 

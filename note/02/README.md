@@ -5,7 +5,7 @@ week 2
 :- | :-
 **Minggu** | 29/08 - 02/09
 **Topik** | Dasar-dasar dan Akses Jurnal
-**Sub-topik** | Jenis publikasi, index journal, sitasi, kuartil, dll.
+**Sub-topik** | Jenis publikasi dan Info Layanan Jurnal
 **Capaian** | Mahasiswa mampu memahami dasar-dasar karya ilmiah.
 ||
 

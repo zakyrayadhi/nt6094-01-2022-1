@@ -5,7 +5,7 @@ week 4
 :- | :-
 **Minggu** | 12/09 - 16/09
 **Topik** | Teknik Penulisan
-**Sub-topik** | Pendahuluan
+**Sub-topik** | Indeks Jurnal
 **Capaian** | Mahasiswa memahami tata cara penulisan dan mampu menuliskan jurnal ilmiah
 ||
 

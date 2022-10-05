@@ -5,7 +5,7 @@ week 7
 :- | :-
 **Minggu** | 03/10 - 07/10
 **Topik** | Teknik Penulisan
-**Sub-topik** | Metodologi dan Latar belakang
+**Sub-topik** | Inspirasi Metodologi dan Latar belakang
 **Capaian** | Mahasiswa memahami tata cara penulisan dan mampu menuliskan jurnal ilmiah
 ||
 
