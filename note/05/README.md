@@ -11,7 +11,7 @@ week 5
 
 
 ## materi
-+ ..
++ [Jurnal: Pendahuluan](journal-introduction-20220922-v4.pdf)
 
 
 ## vicon
