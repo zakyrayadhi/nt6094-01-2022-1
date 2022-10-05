@@ -11,7 +11,7 @@ week 6
 
 
 ## materi
-+ ..
++ [Jurnal: Metodologi](method-20220929-v4.pdf)
 
 
 ## vicon
