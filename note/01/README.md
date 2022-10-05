@@ -11,7 +11,8 @@ week 1
 
 
 ## materi
-+ ..
++ [Info perkuliahan](lecture-info-20220901-v4.pdf)
++ S. Viridi, "Pengelolaan Jurnal Ilmiah", In-House Training Online Penyusunan Jurnal Sains, SEAMEO QITEP in Science (SEAQIS), Bandung, Indonesia, 14-16 April 2020, url <https://de.slideshare.net/sparisoma/pengelolaan-jurnal-ilmiah> [20221006]. `75`
 
 
 ## vicon

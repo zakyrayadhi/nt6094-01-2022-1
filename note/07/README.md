@@ -18,11 +18,7 @@ week 7
 
 
 ## materials
-+ S. Viridi, "Pengelolaan Jurnal Ilmiah", In-House Training Online Penyusunan Jurnal Sains, SEAMEO QITEP in Science (SEAQIS), Bandung, Indonesia, 14-16 April 2020, url <https://de.slideshare.net/sparisoma/pengelolaan-jurnal-ilmiah> [20221006]. `75`
-+ S. Viridi, "Memotivasi Diri untuk Menulis Artikel Ilmiah", Sekolah Ilmiah Pascasarjana (SIP) 3, 15 September 2018, Bandung, Indonesia, url <https://de.slideshare.net/sparisoma/memotivasi-diri-untuk-menulis-artikel-ilmiah> [20221006]. `280`
-+ S. Viridi, "Writing Has Never Been Easier: Penulisan Jurnal Ilmiah", Sekolah Ilmiah Pascasarjana (SIP) 3, 31 Agustus 2018, Bandung, Indonesia, url <https://de.slideshare.net/sparisoma/writing-has-never-been-easier-penulisan-jurnal-ilmiah> [20221006]. `74`
 + S. Viridi, S. Hidayat, "Menumbuhkan Keingintahuan dan Kepekaan pada Permasalahan Sehari-hari: Langkah Awal Menjadi Seorang Inovator", Pembinaan Terpusat Bidikmisi ITB, 22 Oktober 2017, Bandung, Indonesia, url <https://de.slideshare.net/sparisoma/menumbuhkan-keingintahuan-dan-kepekaan-pada-permasalahan-seharihari-langkah-awal-menjadi-seorang-inovator-81062590> [20221006]. `617`
-+ S. Viridi, B. Yuliarto, "Journal Writing", Sekolah Ilmiah Pascasrjana (SIP) 2, 29 April 2017, Bandung, Indonesia, url <https://de.slideshare.net/sparisoma/journal-writing-75516231> [20221006]. `686`
 + S. Viridi, R. Sinar R., B. Cahyo L., "Slide Tambahan: Contoh-contoh Inspiratif", Pelatihan SMPE: Strategi Menjadi Pribadi Efektif, LTPB, ITB, 11-12 Agustus 2016, url <https://de.slideshare.net/sparisoma/slide-20160812-3> [20221006]. `369`
 + S. Viridi, "Riset Fisika yang Berangkat dari Kegiatan yang Sederhana",  EUREKA! Innovation for Better Nation 16 Januari 2016, Bandung, lndonesia, url <https://de.slideshare.net/sparisoma/riset-fisika-yang-berangkat-dari-kegiatan-yang-sederhana> [20221006]. `2017`
 + S. Viridi, F. D. E. Latief, U. Fauzi, M. Abdullah, "Belajar Fisika dengan Kertas", Lab Saintika Salman ITB, 5 September 2015, url <https://de.slideshare.net/sparisoma/belajar-fisika-dengan-kertas> [20221006]. `1715`

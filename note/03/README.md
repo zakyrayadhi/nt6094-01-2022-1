@@ -11,7 +11,9 @@ week 3
 
 
 ## materi
-+ [Info layanan berbagai jurnal di kampus](publication-info-20220908-v3.pdf)
++ S. Viridi, "Memotivasi Diri untuk Menulis Artikel Ilmiah", Sekolah Ilmiah Pascasarjana (SIP) 3, 15 September 2018, Bandung, Indonesia, url <https://de.slideshare.net/sparisoma/memotivasi-diri-untuk-menulis-artikel-ilmiah> [20221006]. `280`
++ S. Viridi, "Writing Has Never Been Easier: Penulisan Jurnal Ilmiah", Sekolah Ilmiah Pascasarjana (SIP) 3, 31 Agustus 2018, Bandung, Indonesia, url <https://de.slideshare.net/sparisoma/writing-has-never-been-easier-penulisan-jurnal-ilmiah> [20221006]. `74`
++ S. Viridi, B. Yuliarto, "Journal Writing", Sekolah Ilmiah Pascasrjana (SIP) 2, 29 April 2017, Bandung, Indonesia, url <https://de.slideshare.net/sparisoma/journal-writing-75516231> [20221006]. `686`
 
 
 ## vicon
