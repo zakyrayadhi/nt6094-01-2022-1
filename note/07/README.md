@@ -26,7 +26,8 @@ week 7
 + S. Viridi, "Belajar Fisika pada Hasil Terapannya", BEA Guru Diklat I LPP Salman ITB, Guru Mulai Abad 21 Bandung, 20-22 Desember 2012, url <https://de.slideshare.net/sparisoma/belajar-fisika-pada-hasil-terapannya> [20221006]. `3093`
 
 
-Slide-slide lain yang tidak terkait dapat diliha di [SlideShare](https://de.slideshare.net/sparisoma/presentations).
+## what next?
++ [Do what you can do](do-what-you-can-do.md)
 
 
 ## vicon
