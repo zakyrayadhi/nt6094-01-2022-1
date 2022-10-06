@@ -3,15 +3,15 @@ Register to GitHub, fork this repo, and comment on [#1](https://github.com/dudun
 
 user | nim | fork | comment
 :-: | :-: | :-: | :-:
-[zakyrayadhi](https://github.com/zakyrayadhi) | 20921007 | :heavy_check_mark: | :heavy_check_mark:
-&nbsp; | 28721001 | :x: | :x:
-&nbsp; | 28721003 | :x: | :x:
+[amaliashifa](https://github.com/amaliashifa) | 20921007 | :heavy_check_mark: | :heavy_check_mark:
+[zakyrayadhi](https://github.com/zakyrayadhi) | 28721001 | :x: | :x:
+[gitagenecya](https://github.com/gitagenecya) | 28721003 | :x: | :x:
 [kapabihi](https://github.com/kapabihi) | 28721006 | :heavy_check_mark: | :heavy_check_mark:
 [zen30621001](https://github.com/zen30621001) | 30621001 | :heavy_check_mark: | :heavy_check_mark:
-&nbsp; | 30621004 | :x: | :x:
-&nbsp; | 30621008 | :x: | :x:
-&nbsp; | 28721005 | :x: | :x:
-&nbsp; | 38721002 | :x: | :x:
+[windanaw](https://github.com/windanaw) | 30621004 | :x: | :x:
+[indahoktav](https://github.com/indahoktav) | 30621008 | :heavy_check_mark:  | :heavy_check_mark: 
+[niningos](https://github.com/niningos) | 28721005 | :x: | :x:
+[yuyunirmawati](https://github.com/yuyunirmawati) | 38721002 | :x: | :x:
 [veedasch](https://github.com/veedasch) | 22221001 | :heavy_check_mark: | :heavy_check_mark:
 
 
