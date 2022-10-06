@@ -3,7 +3,7 @@ Register to GitHub, fork this repo, and comment on [#1](https://github.com/dudun
 
 user | nim | fork | comment
 :-: | :-: | :-: | :-:
-&nbsp; | 20921007 | :x: | :x:
+[zakyrayadhi](https://github.com/zakyrayadhi) | 20921007 | :heavy_check_mark: | :heavy_check_mark:
 &nbsp; | 28721001 | :x: | :x:
 &nbsp; | 28721003 | :x: | :x:
 &nbsp; | 28721006 | :x: | :x:
