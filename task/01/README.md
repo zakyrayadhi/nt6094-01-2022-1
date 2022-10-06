@@ -12,7 +12,7 @@ user | nim | fork | comment
 [indahoktav](https://github.com/indahoktav) | 30621008 | :heavy_check_mark:  | :heavy_check_mark: 
 [niningos](https://github.com/niningos) | 28721005 | :heavy_check_mark: | :heavy_check_mark:
 [yuyunirmawati](https://github.com/yuyunirmawati) | 38721002 | :heavy_check_mark: | :heavy_check_mark:
-[veedasch](https://github.com/veedasch) | 22221001 | :heavy_check_mark: | :heavy_check_mark:
+[veedasch](https://github.com/veedasch) | 99921001 | :heavy_check_mark: | :heavy_check_mark:
 
 
 ## information
