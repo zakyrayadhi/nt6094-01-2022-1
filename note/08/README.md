@@ -15,7 +15,7 @@ week 8
 
 
 ## diskusi
-+ Issue [21](https://github.com/dudung/nt6094-01-2022-1/issues/21) -- pertayaan dan diskusi terkait UTS
++ Issue [21](https://github.com/dudung/nt6094-01-2022-1/issues/21) -- pertanyaan dan diskusi terkait UTS
 
 
 ## vicon
