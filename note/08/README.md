@@ -11,7 +11,7 @@ week 8
 
 
 ## materi
-+ Ujian Tengah Semester (Take Home, Mandiri)
++ [Ujian Tengah Semester](https://github.com/dudung/nt6094-01-2022-1/blob/main/task/05) (Take Home, Mandiri)
 
 
 ## diskusi
