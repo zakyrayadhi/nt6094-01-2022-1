@@ -1,4 +1,4 @@
-# nim
+# 28721001
 1. Ganti nim dia atas dengan NIM Anda, seperti 99921001.
 2. Hanya berkas ini yang akan diperiksa, sehingga bila ada jawaban yang tercantum pada berkas lain, tautan dari berkas ini ke berkas lain tersebut harus dibuat dan tercantum pada berkas ini.
 3. Kerjakan yang diberikan berikut ini.
@@ -16,7 +16,7 @@ Pelajari
 ## soal 1
 Bagaimana Anda dapat menentukan suatu jurnal termasuk dalam kategori Q4, Q3, Q2, atau Q1? Jelaskan dan cantumkan tautan ke sumber yang diperlukan.
 
-+ [Jawaban]()
++ [Jawaban](untuk menentukan suatu jurnal termasuk ke dalam kategori Q4, Q3,Q2, dan Q1 dibutuhkan data percentile dari jurnal tersebut. data ini ditampilkan oleh scopus. Data quartile ini diambil berdasarkan pengaruh jurnal tersebut kepada jurnal lain yang berarti berdasarkan jumlah perhitungan cite score dari jurnal-jurnal yang ada pada scopus. cite score adalah nilai dari suatu jurnal berdasarkan jumlah berapa banyak jurnal tersebut dirujuk oleh jurnal lain. Q1 menandakan jurnal terindeks scopus dengan pengaruh plaing besar sedang Q4 menandakan tingkatan jurnal paling rendah. source: https://xerpihan.id/blog/2983/tingkatan-jurnal-q1-q2-q3-q4/)
 
 
 ## soal 2
