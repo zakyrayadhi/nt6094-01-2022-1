@@ -10,7 +10,7 @@ lecture of nt6094 class 01 semester 1 in academic year 2022
 + `w05` [Jurnal: Pendahuluan](note/05)
 + `w06` [Jurnal: Metodologi](note/06)
 + `w07` [Inspirasi Metodologi dan Latar belakang](note/07)
-+ `w08` [Teknik Penulisan](note/08)
++ `w08` [Ujian Tengah Semester](note/08)
 + `w09` [Teknik Penulisan](note/09)
 + `w10` [Teknik Penulisan](note/10)
 + `w11` [Teknik Penulisan](note/11)

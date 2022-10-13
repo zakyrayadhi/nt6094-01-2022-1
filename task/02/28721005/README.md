@@ -1,2 +1,2 @@
 # 28721005
-Hello word
+Tugas 2
