@@ -54,6 +54,8 @@ Tuliskan empat jurnal bidang Anda, yang mungkin kelak akan menjadi target Anda m
 
 + [Jawaban]()
 
+Berikut empat jurnal yang berhubungan dengan bidang penelitian yang akan ditargetkan untuk pengiriman artikel ilmiah:
+
 | No. | Kategori Jurnal | Nama Jurnal | Konfirmasi Kategori Jurnal |
 | :---: | :---: | --- | --- |
 | 1 | Q1 | [LWT - Food Science and Technology](https://www.sciencedirect.com/journal/lwt) | [Scimago](https://www.scimagojr.com/journalsearch.php?q=20744&tip=sid&clean=0)<br> [Scopus](https://www.scopus.com/sourceid/20744)|
@@ -118,18 +120,20 @@ Cantumkan sebuah persamaan utama yang akan digunakan dalam penelitian Anda, dapa
 
 + [Jawaban]()
 
-**Rumus Pengenceran Larutan**
+Persamaan yang akan digunakan pada studi pematangan buah salah satunya dihitung dengan persamaan berikut:
 
-$$ {V1*M1 = V2*M2} $$
+[**Laju produksi etilen**](https://iopscience.iop.org/article/10.1088/1755-1315/542/1/012012/pdf)
 
-$$ V2 = {(V1 * M1) \over (M2)} $$  
+$$R (C2H4)=\frac{(yC2H4 (ti)-yC2H4 (tf))}{100(W)(tf-ti)}$$  
  
 _Keterangan_:<br>
-V1 = volume larutan pekat (L) <br>
-M1 = konsentrasi larutan pekat (M)<br>
-V2 = volume larutan encer (L)<br>
-M2 = konsentrasi larutan encer (M)<br>
- 
+R = laju produksi etilen endogen (ppm kg<sup>-1</sup> h<sup>-1</sup>) <br>
+t = waktu (jam)<br>
+W = berat (kg)<br>
+y = konsentrasi volumetrik etilen, % v/v<br>
+i = awal <br>
+f = akhir <br>
+
 
 ## soal 6
 Apakah yang dimaksud dengan jurnal pemangsa? Apakah yang dimaksud dengan penerbit pemangsa? Apakah perbedaannya dengan jurnal pemangsa? Jelaskan dengan memberikan rujukan yang digunakan.
