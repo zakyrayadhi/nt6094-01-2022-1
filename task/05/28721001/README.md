@@ -39,26 +39,28 @@ Struktur jurnal IMRaD merupakan singkatan dari Introduction, Method, Result and 
 ## soal 4
 Terkait dengan struktur artikel limiah menurut IMRaD, buat diagram alir dengan Mermaid untuk menggambarkan urut-rutan bagian yang dikerjakan dan iterasi yang diperlukan. Cantumkan rujukan yang digunakan.
 
+
+```mermaid
 flowchart TD
 	A((Title))-->B[[Abstract]]
 	B--> C[\Introduction/]
-	C--> D [[study site]]
-	D--> E [[Methods]]
-	E--> F [[Result]]
-	F--> G [/Discussion\]
-	G--> H [[Conclusions]]
-	H--> I [[Acknowlegments]]
-	I --> J [[References]]
-
+	C--> D[[study site]]
+	D--> E[[Methods]]
+	E--> F[[Result]]
+	F--> G[/Discussion\]
+	G--> H[[Conclusions]]
+	H--> I[[Acknowlegments]]
+	I --> J[[References]]
+   
+```
 source: https://www.researchgate.net/figure/Diagrammatic-representation-of-the-IMRAD-structure-of-research-papers-modified-from-a_fig1_257616774
 
 ## soal 5
 Cantumkan sebuah persamaan utama yang akan digunakan dalam penelitian Anda, dapat dalam bagian teori, pengambilan data, pengolahan data, ataupun analisis.
 
 Persamaan utama yang digunakan pada penelitian saya adalah persamaan navier stokes
-```math
-\frac{\partial(\rho e)}{\partial t} + \overrightarrow{\nabla}\cdot((\rho e + p)\overrightarrow{u}) = \overrightarrow{\nabla}\cdot(\overline{\overline{\tau}}\cdot\overrightarrow{u}) + \rho\overrightarrow{f}\overrightarrow{u} + \overrightarrow{\nabla}\cdot(\overrightarrow{\dot{q}})+r \end{equation}
-```
+$$\frac {\partial (\rho e)}{\partial t} +  \overrightarrow{\nabla}\cdot((\rho e + p)\overrightarrow{u}) = \overrightarrow{\nabla}\cdot(\overline{\overline{\tau}}\cdot\overrightarrow{u}) + \rho\overrightarrow{f}\overrightarrow{u} + \overrightarrow{\nabla}\cdot(\overrightarrow{\dot{q}})+r $$
+
 
 
 ## soal 6
